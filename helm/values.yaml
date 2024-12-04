@@ -2,5 +2,5 @@ petclinic:
   # This image tag can be automatically updated by invoking the workflow
   # included in this repository 
   image: quay.io/eshalev/spring-petclinic-test-19
-  tag: latest 
+  tag: d3e3ee54966ac906054de47f4e6fa5f41c869f94
   replicas: 1
